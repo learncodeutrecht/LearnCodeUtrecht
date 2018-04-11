@@ -2,11 +2,14 @@
 
 ## 1. How many keywords exist in Java?
 
-## 2. ...
+## 2. What keywords are not used?
 
+## 3. Which of the following is not a keyword?
 
-## 3. ...
-
+* `strictfp`
+* `main`
+* `throws`
+* `boolean`
 
 ## 4. ...
 
