@@ -11,7 +11,7 @@ languages like Java, Python and JavaScript.
 
 LCU could be compared with a training ground. If for example the best footballers of the
 world do not train on a daily basis then their performance will drop. Even the most
-experienced developers should train and learn on a daily basis.
+experienced developers should train and learn everyday.
 
 ## Aim
 
