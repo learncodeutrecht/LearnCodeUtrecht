@@ -18,4 +18,15 @@ experienced developers should train and learn everyday.
 The aim of LCU is to learn, maintain and improve programming skills of new and experienced
 developers.
 
-## Methods
+## Program
+
+* Computers
+* Programming languages
+* Network Engineering
+* IT companies
+* Keywords
+* FP
+* OOP
+* Design Patterns
+* SOLID
+* Exercises
