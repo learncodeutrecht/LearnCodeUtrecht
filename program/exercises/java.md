@@ -11,8 +11,10 @@
 * `throws`
 * `boolean`
 
-## 4. ...
+## 4. Are `true`, `false` and `null` keywords?
 
+## 5. Which keywords are CamelCase?
 
-## 5. ...
+## 6. How could the keywords be organized?
 
+## 7. When to use enumerations?
