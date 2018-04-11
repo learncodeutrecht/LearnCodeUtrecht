@@ -1,11 +1,12 @@
 # LearnCodeUtrecht
 
-## background
+## Background
 
-Back in the day, [RikSchoonbeek](https://github.com/RikSchoonbeek) started a [Meetup](https://www.meetup.com/Learn-to-code-together/).
+Learn Code Utrecht (LCU) is a [Meetup](https://www.meetup.com/Learn-to-code-together/)
+that is organized by [RikSchoonbeek](https://github.com/RikSchoonbeek).
 
-## aim
+## Aim
 
+The aim of LCU is to learn programming.
 
-
-## methods
+## Methods
