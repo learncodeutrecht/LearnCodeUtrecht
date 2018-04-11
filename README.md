@@ -7,6 +7,6 @@ that is organized by [RikSchoonbeek](https://github.com/RikSchoonbeek).
 
 ## Aim
 
-The aim of LCU is to learn programming.
+The aim of LCU is to learn, maintain and improve programming skills.
 
 ## Methods
