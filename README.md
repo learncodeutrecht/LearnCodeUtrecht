@@ -30,3 +30,6 @@ developers.
 * Design Patterns
 * SOLID
 * Exercises
+  * [java](program/exercises/java.md)
+* Answers
+  * [java](program/answers/java.md)
